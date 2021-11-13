@@ -1,10 +1,11 @@
-# Yearn API
+# DAFIDAO API
+# Hat-tip yearn-finance
 
-Yearn API is a collection of Serverless API endpoints focused on Yearn integrations.
+DAFIDAO API is a collection of Serverless API endpoints focused on DAFIDAO Yearn integrations.
 
-Yearn API intentions are as follows:
+DAFIDAO's API intentions are as follows:
 
-- Provide free API endpoints to simplify 3rd party integration with Yearn
+- Provide free API endpoints to simplify 3rd party integration with DAFIDAO
 - Provide an "API playground" (Swagger UI) anyone can use to quickly browse and test available APIs
 - Document all existing APIs
 - Allow the entire API stack to be forked to enable community involvement in API development
@@ -12,6 +13,8 @@ Yearn API intentions are as follows:
 ## Interact
 
 https://yearn.tools
+https://dafidao.link
+
 
 ## Setup Instructions
 
